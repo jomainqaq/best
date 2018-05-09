@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ThinkPHP 5.1
 ===============
 
@@ -154,3 +155,7 @@ All rights reserved。
 ThinkPHP® 商标和著作权所有者为上海顶想信息科技有限公司。
 
 更多细节参阅 [LICENSE.txt](LICENSE.txt)
+=======
+# best
+ubuntu php prodect
+>>>>>>> a6f1833cdc5565b7369f99ae92b9e1e300884745
