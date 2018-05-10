@@ -12,4 +12,8 @@ namespace app\simple\controller;
 class Test
 {
 
+    public function hello()
+    {
+        return"hello,fuckyou";
+    }
 }
